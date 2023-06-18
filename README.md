@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with finding an internship/co-op
 - 💬 Ask me about chess, basketball, music
 
+![1ncipient's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ncipient&show_icons=true&theme=transparent)
