@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning full-stack web development 
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with finding an internship/co-op
-- 💬 Ask me about chess, basketball, music
+- 💬 Ask me about chess, basketball, music, cafe-hopping!
 
 ![1ncipient's GitHub stats](https://github-readme-stats.vercel.app/api?username=1ncipient&show_icons=true&theme=transparent)
