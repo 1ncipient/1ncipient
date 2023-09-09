@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👨‍💻 Working at CIBC for the next 8 months, and part-time on my personal website :)
-- 🌱 Currently learning more about full-stack web development!
+- 🌱 Currently learning more about full-stack web development, and the Salesforce CRM platform
 - 👯 I’m looking to collaborate on open-source projects and niche project ideas
 - 🤔 I’m looking for help with finding a Summer 2024 internship or with latte art
 - 💬 Ask me about chess, basketball, music, cafe-hopping!
