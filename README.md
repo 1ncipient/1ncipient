@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Software Developer Co-op @ CIBC (Sept 2023 - Apr 2024)
 <hr/>
 
-- 👨‍💻 Part-time developing my personal website :)
+- 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
 - 🌱 Currently learning more about full-stack web development, and the Salesforce CRM platform
 - 👯 I’m looking to collaborate on open-source projects and niche project ideas
 - 🤔 I’m looking for help with finding a Summer 2024 internship
