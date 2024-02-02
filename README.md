@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
 - 🌱 Currently learning more about full-stack web development, and the Salesforce CRM platform
 - 👯 I’m looking to collaborate on open-source projects and niche project ideas
-- 🤔 I’m looking for help with finding a Summer 2024 internship
-- 💬 Ask me about chess, basketball, music, cafe-hopping!
+- 🤔 I’m currently looking for a Summer 2024 internship
+- 💬 Ask me about chess, basketball, music, cooking!
 
 ![1ncipient's GitHub stats](https://github-readme-stats.zohan.tech/api?username=1ncipient&show_icons=true&theme=transparent)
 
