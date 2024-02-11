@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <hr/>
 
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
-- 🌱 Currently learning more about full-stack web development, and the Salesforce CRM platform
-- 👯 I’m looking to collaborate on open-source projects and niche project ideas
+- 🌱 Learning in progress .. Currently working on the backend for a web app
+- 👯 I’m looking to collaborate on fun projects 
 - 🤔 I’m currently looking for a Summer 2024 internship
 - 💬 Ask me about chess, basketball, music, cooking!
 
