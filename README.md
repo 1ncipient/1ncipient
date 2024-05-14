@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <hr/>
 
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
-- 🌱 Learning in progress .. Currently working on the backend/front-end for a web app using a tech stack of PostgresSQL, React/Typescript, Python(Django)
+- 🌱 Learning in progress .. Working on the full-stack web dev to create a digital me on the web!
 - 👯 I’m looking to collaborate on fun projects 
 - 🤔 I’m currently looking for a Summer 2024 internship
 - 💬 Ask me about chess, basketball, music, cooking!
