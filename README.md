@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
 - 🌱 Learning in progress .. Working on full-stack web dev to create a digital me on the web!
 - 👯 I’m looking to collaborate on fun projects 
-- 🤔 I’m currently looking for a Summer 2024 internship
+- 🤔 I’m currently looking for software engineering internships taking place in the future 
 - 💬 Ask me about chess, basketball, music, cooking!
 
 ![1ncipient's GitHub stats](https://github-readme-stats.zohan.tech/api?username=1ncipient&show_icons=true&theme=transparent)
