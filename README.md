@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Work Experience
 - Software Developer Co-op @ CIBC (Sept 2023 - Apr 2024)
+- Building a movie recommender system with a bunch of classmates with a backend of cockroachdb :)
 <hr/>
 
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
