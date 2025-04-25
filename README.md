@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Work Experience
+- Software Developer Co-op @ CIBC (May 2025 - Aug 2025)
 - Software Developer Co-op @ CIBC (Sept 2023 - Apr 2024)
-- Building an automation tool to assist small businesses with finances :)
+- Building an automation tool / platform to assist accountants and small businesses with finances :)
+- And learning more about implementing quantitative pair trading algorithms 
 <hr/>
 
 - 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
