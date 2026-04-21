@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 -->
 
 ## Work Experience
+- building my own thing (now)
 - Software Engineer Co-op @ CIBC (May 2025 - Aug 2025)
 - Software Engineer Co-op @ CIBC (Sept 2023 - Apr 2024)
 - Building an automation tool / platform to assist accountants and small businesses with finances :)
 - And learning more about implementing quantitative pair trading algorithms 
 <hr/>
 
-- 👨‍💻 Part-time developing my personal website, part-time doing leetcode :)
-- 🌱 Learning in progress .. Working on full-stack web dev to create a digital me on the web!
+- 👨‍💻 now on the world wide web @ heyitshenry.com
 - 👯 I’m looking to collaborate on fun projects 
-- 🤔 I’m currently looking for new grad software engineering opportunities
+- 🤔 I’m currently looking for interesting new grad software engineering opportunities
 - 💬 Ask me about chess, basketball, music, cooking!
 
 ![1ncipient's GitHub stats](https://github-readme-stats.zohan.tech/api?username=1ncipient&show_icons=true&theme=transparent)
