@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Work Experience
-- building my own thing (now)
+- building a trading terminal within discord and enjoying mastering claude code
 - Software Engineer Co-op @ CIBC (May 2025 - Aug 2025)
 - Software Engineer Co-op @ CIBC (Sept 2023 - Apr 2024)
 - Building an automation tool / platform to assist accountants and small businesses with finances :)
